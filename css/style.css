@@ -37,11 +37,12 @@ body{
 .top{
     background-image: url("../images/bg-pattern-card.svg");
     position: relative;
-    flex-basis: 38%;
+    flex-basis: 40%;
 }
 .profile-picture{
     position: absolute;
     border-radius: 50%;
+    border: 5px solid white;
     left: 35%;
     top: 60%;
 }
@@ -49,7 +50,7 @@ body{
     flex-basis: 25%;
     margin-top: 70px;
     text-align: center;
-    filter: blur(0.3px);
+    filter: blur(0.1px);
     border-bottom: 1px solid hsl(0, 0%, 88%);
 }
 .middle h2{
@@ -72,7 +73,7 @@ body{
     align-items: center;
     text-align: center;
     flex-basis: 30%;
-    filter: blur(0.3px);
+    filter: blur(0.1px);
 }
 .bottom h2{
     font-weight: 700;
@@ -81,7 +82,7 @@ body{
 }
 .bottom p{
     color: hsl(0, 0%, 59%);
-    font-size: 15px;
+    font-size: 13px;
 }
 @media(max-width: 450px){
     body{
