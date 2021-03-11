@@ -1,4 +1,4 @@
-<h2 align="center"> Frontend Mentor - Profile card component </h2>
+<h1 align="center"> Frontend Mentor - Profile card component </h1>
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-design.jpg)
 
